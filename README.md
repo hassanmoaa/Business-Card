@@ -1,1 +1,9 @@
-# coe3b4c20b6f111e6120940f2
+Solo Business-Card Project instructed by https://scrimba.com
+
+Added extra functionalities to the project outside of the lesson scope:
+-On-Hover color-change effect
+-Shadow + Neon text
+-Changed layout
+
+
+Hassan Moataz
